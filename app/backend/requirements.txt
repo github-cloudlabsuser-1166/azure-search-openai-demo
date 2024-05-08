@@ -239,6 +239,11 @@ opentelemetry-instrumentation==0.44b0
     #   opentelemetry-instrumentation-wsgi
 opentelemetry-instrumentation-aiohttp-client==0.44b0
     # via -r requirements.in
+# FILEPATH: /c:/Users/azureuser/source/repos/azure-search-openai-demo/app/backend/requirements.txt
+
+# opentelemetry-instrumentation-asgi is a package that provides instrumentation for ASGI applications
+# It allows you to automatically trace and collect telemetry data from your ASGI application
+# This version is 0.44b0
 opentelemetry-instrumentation-asgi==0.44b0
     # via
     #   -r requirements.in
